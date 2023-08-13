@@ -1,1 +1,6 @@
+# Patches
 *.orig
+
+# Binaries
+*.o
+dwm
